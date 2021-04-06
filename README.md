@@ -12,3 +12,4 @@ Deskripsi modifikasi/tambahan yang dilakukan :
 3. Melakukan override method aksi dan getAksi pada class ItemP, Npc, dan ItemFood berdasarkan class Item
 4. Menambahkan class ItemFood (inheritance dari class Item) sehingga apabila kedepannya menambahkan makanan lain maka class sudah dibuat dan tinggal merubah aksinya.
 5. Modifikasi Item Roti agar bisa mengurangi health player apabila dimakan dan membuat permainan berakhir.
+6. Modifikasi pada class ruangan, yakni menggunakan konsep polymorfism untuk menampilkan roti, item, pintu dan npc. Hal ini dilakukan agar subclass dengan parent item dapat ditampilkan dalam sekali perulangan.
