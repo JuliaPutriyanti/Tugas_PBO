@@ -3,7 +3,8 @@ Tugas PBO
 Nama Anggota Kelompok :
 Ghirah Madani (1904397) | 
 Julia Putriyanti  (1900682)
-Pendidikan Ilmu Komputer - A
+
+Kelas : Pendidikan Ilmu Komputer - A
 
 Deskripsi modifikasi/tambahan yang dilakukan :
 1. Modifikasi class pintu menjadi turunan dari class item
